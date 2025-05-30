@@ -44,9 +44,10 @@
   "pk": 6,
   "fields": {
     "nome": "João Guimarães Rosa",
-    "email": null
+    "email": "joao.rosa@example.com"
   }
 },
+
 {
   "model": "core.autor",
   "pk": 7,
